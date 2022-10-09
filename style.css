@@ -17,8 +17,11 @@
 
 input[type="text"]{
     text-align: center;
-    margin-left: 30vw;
+    margin-left: 45vw;
     position: absolute;
+    height: 50px;
+    border-radius: 20px;
+    margin-top: 30vh;
 
 }
 
@@ -27,4 +30,9 @@ input[type="submit"]{
     margin-left: 41vw;
     position: absolute;
 
+}
+.name{
+    margin-left: 45vw;
+    position: absolute;
+    margin-top: 45vh;
 }
