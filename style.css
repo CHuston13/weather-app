@@ -47,3 +47,19 @@ input[type="submit"]:hover{
     text-decoration: underline;
 
 }
+h1{
+    margin-left: 20.5vw;
+    margin-top: 2vh;
+}
+
+.desc{
+    font-size: 25px;
+    margin-left: 21.5vw;
+    margin-top: 1vh;
+}
+
+.temp{
+    font-size: 25px;
+    margin-left: 21.5vw;
+    margin-top: 1vh;
+}
