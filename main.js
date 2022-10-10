@@ -26,5 +26,5 @@ const description = document.querySelector('.desc');
 
     })
 
-    
+
 
